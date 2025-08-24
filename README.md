@@ -16,14 +16,14 @@ python -m http.server 8000
 
 Project ini menggunakan teknologi pada umumnya
 
-[HTML](https://id.wikipedia.org/wiki/HTML): Kerangka pada website
-[CSS](https://en.wikipedia.org/wiki/CSS): Memberikan style pada website
-[JS](https://id.wikipedia.org/wiki/JavaScript): Script untuk membuat website interaktif
+- [HTML](https://id.wikipedia.org/wiki/HTML): Kerangka pada website
+- [CSS](https://en.wikipedia.org/wiki/CSS): Memberikan style pada website
+- [JS](https://id.wikipedia.org/wiki/JavaScript): Script untuk membuat website interaktif
 
 Beberapa komponen memerlukan teknologi tambahan
 
-[zig](https://ziglang.org/): bahasa tingkat rendah karena memerlukan manipulasi memori. Di compile dan mengoutputkan webassembly
-[wasm](https://webassembly.org/): hasil output dari zig. Bisa dibilang ini adalah .exe nya untuk website.
+- [Zig](https://ziglang.org/): bahasa tingkat rendah karena memerlukan manipulasi memori. Di compile dan mengoutputkan webassembly
+- [WASM](https://webassembly.org/): hasil output dari zig. Bisa dibilang ini adalah .exe nya untuk website.
 
 # Framework
 
