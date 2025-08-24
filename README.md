@@ -4,7 +4,7 @@ Repository ini adalah landing page yang dibuat untuk menyelesaikan tugas proyek 
 
 ## Running
 
-Website dapat diakses via github pages di TODO:LINK
+Website dapat diakses via github pages di [github pages](https://andiputraw.github.io/project-3-week-1/)
 
 Untuk menjalankan program. Disarankan menggunakan server via extensi [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) untuk VS Code. atau menggunakan python. Ini diperlukan karena fungsi `fetch()` pada javascript tidak dapat digunakan tanpa server
 
