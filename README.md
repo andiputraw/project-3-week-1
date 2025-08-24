@@ -33,10 +33,10 @@ Tidak ada fraemework yang digunakan pada project ini.
 
 Beberapa Referensi yang digunakan untuk website ini
 
-[Deno](https://deno.com/) dan [Deno Deploy](https://deno.com/deploy) sebagai referensi UI
-[Zeini-23025](https://github.com/Zeini-23025/Zeini-23025) Referrensi penggunaan badge untuk section _skills_
-[Reset CSS](https://meyerweb.com/eric/tools/css/reset/) mereset CSS bawaan browser.
-[TailwindCSS](https://tailwindcss.com/docs) Referensi value CSS untuk digunakan pada text, margin, dll.
-[Game of Life](https://github.com/andiputraw/game-of-life) implementasi game of life
+- [Deno](https://deno.com/) dan [Deno Deploy](https://deno.com/deploy) sebagai referensi UI
+- [Zeini-23025](https://github.com/Zeini-23025/Zeini-23025) Referrensi penggunaan badge untuk section _skills_
+- [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) mereset CSS bawaan browser.
+- [TailwindCSS](https://tailwindcss.com/docs) Referensi value CSS untuk digunakan pada text, margin, dll.
+- [Game of Life](https://github.com/andiputraw/game-of-life) implementasi game of life
 
 
