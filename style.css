@@ -15,10 +15,17 @@ body {
 }
 
 .avatar {
-    max-width: 20%;
+    width: 40%;
     height: auto;
     border-radius: 10px;
 }
+
+@media (min-width: 1024px) {
+    .avatar {
+        width: 20%;
+    }
+}
+
 .header {
     /* https://developer.mozilla.org/en-US/docs/Web/CSS/position */
     position: sticky;
@@ -85,7 +92,14 @@ body {
 }
 
 .profile {
-    max-width: 20%;
-    border-radius: 0.125rem;
-    
+    max-width: 60%;
+    height: auto;
+    border-radius: 20px;
+    margin: 1.25rem 0;
+}
+
+@media (min-width: 1024px) {
+    .profile {
+        max-width: 40%;
+    }
 }
